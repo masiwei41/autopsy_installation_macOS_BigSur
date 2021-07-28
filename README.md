@@ -7,6 +7,7 @@ follow the instructions:
 https://slo-sleuth.github.io/tools/InstallingAutopsyOnMacOS.html
 
 Notes:
+
 To uninstall Java completely:
 sudo rm -rf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin  
 sudo rm -rf /Library/PreferencePanes/JavaControlPanel.prefPane  
