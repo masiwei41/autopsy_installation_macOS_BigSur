@@ -9,9 +9,10 @@ https://slo-sleuth.github.io/tools/InstallingAutopsyOnMacOS.html
 Notes:
 
 To uninstall Java completely:
+
 sudo rm -rf /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin  
 sudo rm -rf /Library/PreferencePanes/JavaControlPanel.prefPane  
-sudo rm -rf /Library/Application\ Support/Oracle/Java/ 
+sudo rm -rf /Library/Application\ Support/Oracle/Java/.    
 sudo rm -rf /Library/Java/JavaVirtualMachines 
 
 For MacOS Big Sur, to install the full version of Liberica JDK 8, use
